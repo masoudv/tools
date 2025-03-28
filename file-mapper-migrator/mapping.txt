@@ -1,0 +1,2 @@
+project-alpha/docs/intro.md|project-alpha-refactored/docs/sections/introduction.md
+project-alpha/docs/api.md|project-alpha-refactored/docs/sections/api/api.md
